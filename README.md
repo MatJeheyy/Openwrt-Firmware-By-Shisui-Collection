@@ -53,11 +53,8 @@
 
 ## OPENWRT FIRMWARE LINK DOWNLOAD
 
-- https://github.com/MatJeheyy/-OPENWRT-FIRMWARE-COMPILATION-1/releases
-- https://github.com/MatJeheyy/-OPENWRT-FIRMWARE-COMPILATION-2/releases
-- https://github.com/MatJeheyy/-OPENWRT-FIRMWARE-COMPILATION-3/releases
-- https://github.com/MatJeheyy/-OPENWRT-FIRMWARE-COMPILATION-4/releases
-- https://github.com/MatJeheyy/-OPENWRT-FIRMWARE-COMPILATION-5/releases
+- https://github.com/MatJeheyy/Openwrt-By-Shisui-Collection/releases
+
 
 ## Credits
 
