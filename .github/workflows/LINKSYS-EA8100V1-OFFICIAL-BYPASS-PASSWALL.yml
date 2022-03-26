@@ -12,8 +12,8 @@ name: Build LINKSYS_EA8100V1_OFFICIAL_BYPASS_PASSWALL
 
 on:
   workflow_dispatch:
-  schedule:
-     - cron: 0 8 1 * *
+  #schedule:
+    #- cron: 0 8 1 * *
 
 env:
   REPO_URL: https://git.openwrt.org/openwrt/openwrt.git
