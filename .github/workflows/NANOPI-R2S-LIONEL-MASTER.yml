@@ -12,8 +12,8 @@ name: Build NANOPI-R2S-LIONEL-MASTER
 
 on:
   workflow_dispatch:
-  schedule:
-     - cron: 0 8 1 * *
+  #schedule:
+     #- cron: 0 8 1 * *
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt
