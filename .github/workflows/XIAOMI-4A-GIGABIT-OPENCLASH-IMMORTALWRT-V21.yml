@@ -12,8 +12,8 @@ name: Build XIAOMI-4A-GIGABIT-OPENCLASH-IMMORTALWRT-V21
 
 on:
   workflow_dispatch:
-  #schedule:
-     #- cron: 0 8 1 * *
+  schedule:
+     - cron: 0 8 1 * *
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt.git
   REPO_BRANCH: openwrt-21.02
