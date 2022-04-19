@@ -12,6 +12,9 @@
 - LEDE
 - IMMORTALWRT
 
+    root : root
+password : password
+
 ## OPENWRT FIRMWARE ROUTER
 
 - XIAOMI 4A GIGABIT
