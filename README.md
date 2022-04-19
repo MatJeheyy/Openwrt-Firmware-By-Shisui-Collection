@@ -13,6 +13,7 @@
 - IMMORTALWRT
 
     root : root
+
 password : password
 
 ## OPENWRT FIRMWARE ROUTER
