@@ -12,8 +12,8 @@ name: Build NANOPI-R2S-LIONEL-V21
 
 on:
   workflow_dispatch:
-  schedule:
-     - cron: 0 8 1 * *
+  #schedule:
+     #- cron: 0 8 1 * *
 env:
   REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: 21.02
