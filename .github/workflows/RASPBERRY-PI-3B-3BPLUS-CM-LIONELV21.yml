@@ -12,8 +12,8 @@ name: Build RASPBERRY-PI-3B-3BPLUS-CM-LIONELV21
 
 on:
   workflow_dispatch:
-  schedule:
-     - cron: 0 8 1 * *
+  #schedule:
+     #- cron: 0 8 1 * *
 
 env:
   REPO_URL: https://github.com/Lienol/openwrt
